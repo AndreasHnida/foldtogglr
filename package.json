@@ -2,6 +2,10 @@
   "name": "foldtogglr",
   "displayName": "FoldTogglr",
   "description": "Provides a simple shortcut interface to toggle folding of a predefinded level.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AndreasHnida/foldtogglr"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.87.0"
