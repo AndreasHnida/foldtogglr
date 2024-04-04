@@ -31,7 +31,7 @@ You can customize the behavior of FoldTogglr by modifying the following settings
 ## Contributing
 
 Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull
-request on the [GitHub repository](https://github.com/your-username/foldtogglr).
+request on the [GitHub repository](https://github.com/AndreasHnida/foldtogglr).
 
 ## License
 
